@@ -1,3 +1,3 @@
 ### Hello!
 
-I am a junior software engineer and web developer studying many different programming languages.
+I am a junior web developer & software architect studying many different programming languages.
