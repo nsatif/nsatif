@@ -1,3 +1,3 @@
 ### Hello!
 
-I am a junior web developer/software engineer currently studying a vast array of computer programming languages.
+I am a web developer/software engineer currently working on some personal projects.
